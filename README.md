@@ -7,6 +7,6 @@
 - Version 2: There is an infinite supply of each box
   Result: A Maximum Dollar value of $36 can be achieved by taking 3 Yellow boxes, and 3 Gray boxes.
   
- *** Language: - Julia 1.8.2
- *** Packages: - JuMP   1.4.0
-               - GLPK   1.1.0
+ *** Language: ** Julia 1.8.2
+ *** Packages: ** JuMP   1.4.0
+               ** GLPK   1.1.0
