@@ -10,6 +10,7 @@
 # Project 2: Analize California house pricing zones with clustering
 ### Result:
 - After i did data wrangling, i used K-MEANS algorithm to cluster the data based on zone and price.
-- We can see that the price is higher when the house is on the beach side. The low cost houses are in the middle zone (price LOW->HIGH 1-5)
+- We can see that the price is higher when the house is on the beach side. The low cost houses are in the middle zone
+- Plot legend: 1(LOW PRICE) -> 5(HIGH PRICE)
 
   
