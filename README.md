@@ -13,4 +13,4 @@
 - We can see that the price is higher when the house is on the beach side. The low cost houses are in the middle zone.
 - Plot legend: 1(LOW PRICE) -> 5(HIGH PRICE)
 
-  
+![](https://github.com/PavyRO/Pavel_Alexandru_Portofolio/blob/main/images/CaliforniaClusterpng.png)  
